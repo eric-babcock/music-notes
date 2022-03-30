@@ -1,2 +1,2 @@
 # music notes
- notes on songs I'm playing
+ A repository for music that I play
