@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.4)  30 MAR 2022 02:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.4)  30 MAR 2022 16:30
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **skinnylove.tex
 (./skinnylove.tex
@@ -472,18 +473,18 @@ ve.aux) )
 Here is how much of TeX's memory you used:
  12157 strings out of 478276
  252022 string characters out of 5850490
- 532910 words of memory out of 5000000
+ 532911 words of memory out of 5000000
  30180 multiletter control sequences out of 15000+600000
  470212 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,8n,104p,411b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,8n,104p,411b,254s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texliv
 e/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2021/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/
 public/amsfonts/latxfont/lcircle1.pfb>
-Output written on skinnylove.pdf (2 pages, 68312 bytes).
+Output written on skinnylove.pdf (2 pages, 67937 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream

@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.4)  30 MAR 2022 03:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.4)  4 APR 2022 00:04
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **ScalesFingering.tex
 (./ScalesFingering.tex
@@ -444,7 +445,7 @@ ing.aux) )
 Here is how much of TeX's memory you used:
  12675 strings out of 478276
  265547 string characters out of 5850490
- 569379 words of memory out of 5000000
+ 576377 words of memory out of 5000000
  30675 multiletter control sequences out of 15000+600000
  469259 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -452,7 +453,7 @@ Here is how much of TeX's memory you used:
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texliv
 e/2021/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on ScalesFingering.pdf (1 page, 28942 bytes).
+Output written on ScalesFingering.pdf (1 page, 29169 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
