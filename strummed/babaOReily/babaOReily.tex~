@@ -1,0 +1,126 @@
+\documentclass{article}
+%TODO: - add chords 
+%      - add lyrics
+\usepackage{tikz}
+%\usepackage{xifthen}
+%\usepackage{xstring}
+%\usepackage{chordbox}
+\usepackage{gchords}
+\usepackage{guitar}
+\usepackage{multicol}
+\def\strings{4}
+\def\numfrets{4}
+\smallchords
+\begin{document}
+
+\section{Baba O'Reilly}
+\chords{% Key of D  
+\chord{t}{2,o,o,2}{D}
+\chord{t}{o,o,2,3}{G}
+\chord{t}{2,2,4,o}{A}
+\chord{t}{4,o,2,2}{Bm}
+}
+
+\begin{guitar}
+\begin{multicols}{2}
+
+  \textbf{Intro:}
+  F  C  | Bb x 8
+  \textbf{Verse 1}
+
+  [F]Out here in the fi[C]elds[Bb]
+  [F]I fight for my meal[C]s[Bb]
+  [F]I get my back into my living[C][Bb]
+  [F]I don't need to fight[C][Bb]
+  [F]To prove I'm ri[C]ght[Bb]
+  [F]I don't [C]need to [Bb]be forgiven[F][C][Bb]
+
+%\end{multicols}
+\begin{center}
+\textit{Additional lyrics}
+\end{center}
+
+\begin{multicols}{2}\begin{flushleft}
+\columnbreak
+\end{flushleft}
+\end{multicols}
+%\end{center}
+\end{guitar}
+
+\textbf{Verse/Chorus:}\\
+D///G/\\
+Bm///A/ x2\\
+\textbf{Bridge}\\
+\end{document}
+
+
+F  C  | Bb
+F  C  | Bb
+F  C  | Bb
+
+F  C  | Bb
+F  C  | Bb
+F  C  | Bb
+F  C  | Bb
+
+
+[verse:]
+F           	 C      Bb         
+Out here in the fields
+F                 C    Bb
+I fight for my meals
+F                            C         Bb
+I get my back into my living
+F                     C  Bb
+I don't need to fight
+F               C     Bb
+To prove I'm right
+F       C      Bb                 F         C  Bb
+I don't need to be forgiven
+
+Yeah yeah yeah yeah yeah
+F   C   Bb
+F   C   Bb
+F   C   Bb
+F   C   Bb
+
+C   C   C
+
+
+  [chorus:]
+     C     Dm
+Don't cry
+     C
+Don't raise your eye
+  F              Bb             C    
+It's only teenage wasteland
+
+
+
+[verse:]
+Sally take my hand
+We'll travel south cross-land
+Put out the fire
+And don't look past my shoulder
+The exodus is here
+The happy ones are near
+Let's get together
+Before we get much older
+
+F                                   C   Bb
+Teenage wasteland
+F                                                  C  Bb
+It's only teenage wasteland
+F                                                  C  Bb
+Teenage wasteland oh yeah
+F                                    C    Bb
+Teenage wasteland
+                                   C  C
+They're all wasted
+
+Bb Bb
+
+C    Bb    F   Eb
+C    Bb    F   Eb
+C    C     Bb  
+F
