@@ -9,1215 +9,2640 @@ tspan { white-space: pre; }
 <tspan>Blackthorn Stick</tspan>
 </text>
 </g>
-<g transform="translate(14.2264, 9.7831)">
-<rect x="83.5192" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="104.7294" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
-<g transform="translate(74.4882, 12.7831)">
+<g transform="translate(5.6906, 12.7831)">
+<rect x="104.7294" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="104.7294" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="104.7294" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="104.7294" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="104.7294" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 10.7831)">
+<rect x="101.9616" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="101.9616" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="101.9616" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="101.9616" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="101.9616" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="101.9616" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="101.9616" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 9.7831)">
+<rect x="98.9437" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 10.7831)">
+<rect x="98.9437" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="98.9437" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="98.9437" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="98.9437" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="98.9437" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="98.9437" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="98.9437" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 10.7831)">
+<rect x="95.9259" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="95.9259" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="95.9259" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="95.9259" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="95.9259" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="95.9259" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="95.9259" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 10.7831)">
+<rect x="92.9080" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="92.9080" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="92.9080" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="92.9080" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="92.9080" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="92.9080" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="92.9080" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 10.7831)">
+<rect x="89.8902" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="89.8902" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="89.8902" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="89.8902" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="89.8902" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="89.8902" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="89.8902" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="85.4754" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="85.4754" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="85.4754" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="85.4754" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="85.4754" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="85.4754" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="80.4939" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="80.4939" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="80.4939" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="80.4939" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="77.4761" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="77.4761" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="77.4761" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="77.4761" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="77.4761" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="74.2082" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="74.2082" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="74.2082" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="74.2082" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="71.4404" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="71.4404" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="71.4404" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="71.4404" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="71.4404" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="67.1685" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="67.1685" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="67.1685" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="67.1685" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="64.1506" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="64.1506" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="64.1506" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="64.1506" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="61.1328" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="61.1328" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="61.1328" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="58.1149" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="58.1149" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="58.1149" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="58.1149" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="55.0970" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="55.0970" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="55.0970" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="55.0970" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="51.8292" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="51.8292" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="47.5573" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="47.5573" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="47.5573" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="44.7894" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="44.7894" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="44.7894" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="44.7894" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="41.7716" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="41.7716" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="41.7716" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="41.7716" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="38.7537" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="38.7537" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="38.7537" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="38.7537" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="35.9859" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="35.9859" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="35.9859" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="35.9859" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="35.9859" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="33.2180" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="33.2180" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="33.2180" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="33.2180" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="33.2180" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="33.2180" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="28.9461" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="28.9461" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="28.9461" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="28.9461" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="28.9461" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="28.9461" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 10.7831)">
+<rect x="26.1783" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="26.1783" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="26.1783" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="26.1783" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="26.1783" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="26.1783" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="26.1783" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="22.9104" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="22.9104" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="22.9104" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="22.9104" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="22.9104" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="22.9104" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 10.7831)">
+<rect x="20.1426" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="20.1426" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="20.1426" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="20.1426" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="20.1426" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="20.1426" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="20.1426" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 10.7831)">
+<rect x="17.1247" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="17.1247" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="17.1247" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="17.1247" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="17.1247" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="17.1247" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="17.1247" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 10.7831)">
+<rect x="14.1069" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="14.1069" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="14.1069" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="14.1069" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="14.1069" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="14.1069" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="14.1069" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 11.7831)">
+<rect x="9.6921" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 12.7831)">
+<rect x="9.6921" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 13.7831)">
+<rect x="9.6921" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 14.7831)">
+<rect x="9.6921" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 15.7831)">
+<rect x="9.6921" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 16.7831)">
+<rect x="9.6921" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(76.0601, 19.7831)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(26.7291, 12.7831)">
+<g transform="translate(18.7266, 19.7831)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(58.0824, 12.7831)">
+<g transform="translate(113.6210, 19.7831)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(89.3356, 12.7831)">
+<g transform="translate(56.4489, 19.7831)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(42.4320, 12.7831)">
+<g transform="translate(94.5099, 19.7831)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(14.2264, 14.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="90.9988" y2="0"/>
+<g transform="translate(37.8377, 19.7831)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(14.2264, 13.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="90.9988" y2="0"/>
+<g transform="translate(5.6906, 21.7831)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(14.2264, 12.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="90.9988" y2="0"/>
+<g transform="translate(5.6906, 20.7831)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(14.2264, 11.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="90.9988" y2="0"/>
+<g transform="translate(5.6906, 19.7831)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(14.2264, 10.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="90.9988" y2="0"/>
+<g transform="translate(5.6906, 18.7831)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:37:6:7">
-<g transform="translate(77.8061, 13.7831)">
+<g transform="translate(5.6906, 17.7831)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:32:6:7">
+<g transform="translate(80.2248, 13.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(76.8108, 12.7831)">
-<rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(77.5220, 19.7831)">
+<rect x="-0.0650" y="-6.8139" width="0.1300" height="6.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(81.7798, 12.7831)">
-<rect x="-0.0650" y="-3.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(83.5577, 19.7831)">
+<rect x="-0.0650" y="-6.8139" width="0.1300" height="6.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(84.2643, 12.7831)">
-<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(86.5755, 19.7831)">
+<rect x="-0.0650" y="-6.3139" width="0.1300" height="6.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:26:43:44">
-<g transform="translate(83.0251, 8.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:20:45:46">
+<g transform="translate(86.5105, 8.7036)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>D</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:37:10:11">
-<g transform="translate(83.0251, 13.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:32:10:11">
+<g transform="translate(86.5105, 13.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:37:8:9">
-<g transform="translate(80.5406, 12.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:32:8:9">
+<g transform="translate(83.4927, 12.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(79.0453, 12.7831)">
-<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.8139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(80.2898, 19.7831)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:36:10:11">
-<g transform="translate(66.8694, 14.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:31:10:11">
+<g transform="translate(67.1494, 14.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:26:31:32">
-<g transform="translate(66.8694, 8.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:20:33:34">
+<g transform="translate(67.1494, 8.7036)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(65.6241, 12.7831)">
-<rect x="-0.0650" y="-1.9902" width="0.1300" height="2.8041" ry="0.0400" fill="currentColor"/>
+<g transform="translate(64.1965, 19.7831)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:36:8:9">
-<g transform="translate(64.3849, 13.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:31:8:9">
+<g transform="translate(64.1315, 13.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(68.1086, 12.7831)">
-<rect x="-0.0650" y="-2.1979" width="0.1300" height="3.5118" ry="0.0400" fill="currentColor"/>
+<g transform="translate(67.2144, 19.7831)">
+<rect x="-0.0650" y="-5.3139" width="0.1300" height="5.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(63.1396, 12.7831)">
-<rect x="-0.0650" y="-1.6139" width="0.1300" height="2.4278" ry="0.0400" fill="currentColor"/>
+<g transform="translate(61.1787, 19.7831)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:36:6:7">
-<g transform="translate(61.9004, 13.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:31:6:7">
+<g transform="translate(61.1137, 13.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(98.0717, 12.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.8090 0.6100 4.8090 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(104.9603, 19.7831)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.8757 -0.2000 5.8757 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:26:37:38">
-<g transform="translate(75.5716, 8.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:20:39:40">
+<g transform="translate(77.4570, 8.7036)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>A</tspan>
 </text>
 </g>
-<g transform="translate(77.3471, 8.7036)">
+<g transform="translate(79.2324, 8.7036)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>m</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(73.0776, 12.7831)">
-<rect x="-0.0650" y="-2.8021" width="0.1300" height="3.1160" ry="0.0400" fill="currentColor"/>
+<g transform="translate(73.2501, 19.7831)">
+<rect x="-0.0650" y="-6.3139" width="0.1300" height="6.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:36:15:16">
-<g transform="translate(71.8384, 13.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:31:15:16">
+<g transform="translate(73.1851, 13.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:37:4:5">
-<g transform="translate(75.5716, 12.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:32:4:5">
+<g transform="translate(77.4570, 12.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(70.5931, 12.7831)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(70.2322, 19.7831)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:36:13:14">
-<g transform="translate(69.3539, 13.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:31:13:14">
+<g transform="translate(70.1672, 13.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(102.8557, 12.7831)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.3030" ry="0.0400" fill="currentColor"/>
+<g transform="translate(110.8110, 19.7831)">
+<rect x="-0.0650" y="-8.3139" width="0.1300" height="8.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:38:15:16">
-<g transform="translate(102.7907, 11.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:33:15:16">
+<g transform="translate(110.7460, 11.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(100.6212, 12.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="2.9298" ry="0.0400" fill="currentColor"/>
+<g transform="translate(108.0432, 19.7831)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:38:13:14">
-<g transform="translate(100.5562, 10.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:33:13:14">
+<g transform="translate(107.9782, 10.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(98.1367, 12.7831)">
-<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.0148" ry="0.0400" fill="currentColor"/>
+<g transform="translate(105.0253, 19.7831)">
+<rect x="-0.0650" y="-9.8139" width="0.1300" height="9.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(28.0117, 13.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.0590 -0.2000 5.0590 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(20.1235, 19.7831)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.1257 -0.2000 6.1257 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(90.6182, 13.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.0590 -0.2000 5.0590 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(95.9068, 19.7831)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.1257 -0.2000 6.1257 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(76.7458, 9.7831)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.0590 -0.2000 5.0590 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(77.4570, 19.7831)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.1257 -0.2000 6.1257 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(68.0436, 10.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.0590 -0.8200 5.0590 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(67.1494, 19.7831)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.1257 -0.2000 6.1257 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(60.3401, 11.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.3090 -1.0100 5.3090 -0.6100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(57.8458, 19.7831)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.3757 -0.2000 6.3757 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(51.8031, 9.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.8090 0.6100 4.8090 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(47.7882, 19.7831)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.8757 -0.2000 5.8757 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(43.6754, 14.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.5590 1.1100 4.5590 1.5100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(39.2346, 19.7831)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.6257 -0.2000 5.6257 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(35.2152, 13.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.0590 -0.2000 5.0590 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(28.9270, 19.7831)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.1257 -0.2000 6.1257 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:38:11:12">
-<g transform="translate(98.0717, 9.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:33:11:12">
+<g transform="translate(104.9603, 9.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(90.6832, 12.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(95.9718, 19.7831)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:38:4:5">
-<g transform="translate(90.6182, 10.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:33:4:5">
+<g transform="translate(95.9068, 10.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:26:48:49">
-<g transform="translate(90.6182, 8.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:20:50:51">
+<g transform="translate(95.9068, 8.7036)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(86.9810, 15.2431)">
+<g transform="translate(91.6220, 19.7431)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
 </g>
-<g transform="translate(86.9160, 12.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(91.5570, 19.7831)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:26:52:53">
-<g transform="translate(98.0717, 8.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:20:54:55">
+<g transform="translate(104.9603, 8.7036)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(95.6522, 12.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(102.0075, 19.7831)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:38:9:10">
-<g transform="translate(95.5872, 10.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:33:9:10">
+<g transform="translate(101.9425, 10.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:37:13:14">
-<g transform="translate(86.8510, 11.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:32:13:14">
+<g transform="translate(91.4920, 11.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(93.1677, 12.7831)">
-<rect x="-0.0650" y="-1.8139" width="0.1300" height="2.6239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(98.9896, 19.7831)">
+<rect x="-0.0650" y="-8.8139" width="0.1300" height="8.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:38:6:7">
-<g transform="translate(93.1027, 10.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:33:6:7">
+<g transform="translate(98.9246, 10.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(35.2802, 12.7831)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.5039" ry="0.0400" fill="currentColor"/>
+<g transform="translate(28.9920, 19.7831)">
+<rect x="-0.0650" y="-8.3139" width="0.1300" height="8.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:34:12:13">
-<g transform="translate(35.2152, 11.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:29:12:13">
+<g transform="translate(28.9270, 11.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:26:13:14">
-<g transform="translate(35.2152, 8.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:20:15:16">
+<g transform="translate(28.9270, 8.7036)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(33.0457, 12.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(26.2242, 19.7831)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:34:10:11">
-<g transform="translate(32.9807, 10.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:29:10:11">
+<g transform="translate(26.1592, 10.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(30.5612, 12.7831)">
-<rect x="-0.0650" y="-1.8139" width="0.1300" height="2.6239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(23.2063, 19.7831)">
+<rect x="-0.0650" y="-8.8139" width="0.1300" height="8.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:34:7:8">
-<g transform="translate(30.4962, 10.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:29:7:8">
+<g transform="translate(23.1413, 10.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(40.2492, 12.7831)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.5039" ry="0.0400" fill="currentColor"/>
+<g transform="translate(35.0277, 19.7831)">
+<rect x="-0.0650" y="-8.3139" width="0.1300" height="8.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:35:4:5">
-<g transform="translate(43.6754, 11.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:30:4:5">
+<g transform="translate(39.2346, 11.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:26:18:19">
-<g transform="translate(43.6754, 8.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:20:20:21">
+<g transform="translate(39.2346, 8.7036)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:34:16:17">
-<g transform="translate(40.1842, 11.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:29:16:17">
+<g transform="translate(34.9627, 11.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(38.0147, 12.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.5039" ry="0.0400" fill="currentColor"/>
+<g transform="translate(32.2599, 19.7831)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:34:14:15">
-<g transform="translate(37.9497, 10.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:29:14:15">
+<g transform="translate(32.1949, 10.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(24.3096, 12.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(15.7737, 19.7831)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(24.3746, 15.2431)">
+<g transform="translate(15.8387, 19.7431)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:31:4:5">
-<g transform="translate(20.8276, 12.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:15:2:3">
+<g transform="translate(12.2918, 19.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M170 259c-51 0 -53 -43 -53 -100v-18v-18c0 -57 2 -100 53 -100c57 0 61 51 61 118s-4 118 -61 118zM117 266c15 10 33 16 53 16c101 0 170 -46 170 -141s-69 -141 -170 -141c-112 0 -170 124 -170 250c0 128 72 250 190 250c70 0 136 -39 136 -103
 c0 -36 -29 -66 -65 -66s-66 30 -66 66c0 24 40 25 40 49c0 20 -23 31 -45 31c-66 0 -75 -65 -75 -139c0 -24 2 -48 2 -72z" fill="currentColor"/>
 </g>
-<g transform="translate(20.7764, 14.7832)">
+<g transform="translate(12.2406, 21.7832)">
 <path transform="scale(0.0040, -0.0040)" d="M261 287c25 30 44 64 44 103c0 54 -55 87 -114 87c-46 0 -73 -36 -73 -71c0 -21 10 -42 31 -54zM292 269c54 -31 80 -79 80 -125c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 36 87 72 123c-37 28 -55 66 -55 103c0 68 60 134 174 134c80 0 157 -39 157 -110
 c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:30:4:5">
-<g transform="translate(18.5264, 10.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:14:2:3">
+<g transform="translate(9.9906, 17.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
 v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(15.0264, 13.7831)">
+<g transform="translate(6.4906, 20.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247
 c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM335 -262
 c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 104 -7 156c0 115 55 224 149 292c6 5 14 5 20 0c71 -84 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c4 0 9 1 13 1c155 0 256 -128 256 -261
 c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8zM428 916c0 55 -4 79 -20 129c-99 -48 -162 -149 -162 -259
 c0 -74 18 -133 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:33:4:5">
-<g transform="translate(24.2446, 11.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:28:4:5">
+<g transform="translate(15.7087, 11.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(28.0767, 12.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(20.1885, 19.7831)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:34:4:5">
-<g transform="translate(28.0117, 10.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:29:4:5">
+<g transform="translate(20.1235, 10.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:26:9:10">
-<g transform="translate(28.0117, 8.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:20:11:12">
+<g transform="translate(20.1235, 8.7036)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:35:14:15">
-<g transform="translate(55.3479, 14.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:30:14:15">
+<g transform="translate(53.5739, 14.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(54.3526, 12.7831)">
-<rect x="-0.0650" y="-2.3841" width="0.1300" height="3.1980" ry="0.0400" fill="currentColor"/>
+<g transform="translate(50.8710, 19.7831)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:35:12:13">
-<g transform="translate(53.1134, 13.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:30:12:13">
+<g transform="translate(50.8060, 13.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(56.5871, 12.7831)">
-<rect x="-0.0650" y="-2.0109" width="0.1300" height="3.8248" ry="0.0400" fill="currentColor"/>
+<g transform="translate(53.6389, 19.7831)">
+<rect x="-0.0650" y="-4.8139" width="0.1300" height="4.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:35:10:11">
-<g transform="translate(50.6289, 13.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:30:10:11">
+<g transform="translate(47.7882, 13.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:26:22:23">
-<g transform="translate(50.6289, 8.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:20:24:25">
+<g transform="translate(47.7882, 8.7036)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(60.4051, 12.7831)">
-<rect x="-0.0650" y="-1.1998" width="0.1300" height="3.5137" ry="0.0400" fill="currentColor"/>
+<g transform="translate(57.9108, 19.7831)">
+<rect x="-0.0650" y="-4.3139" width="0.1300" height="4.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(51.8681, 12.7831)">
-<rect x="-0.0650" y="-2.7991" width="0.1300" height="3.1130" ry="0.0400" fill="currentColor"/>
+<g transform="translate(47.8532, 19.7831)">
+<rect x="-0.0650" y="-6.3139" width="0.1300" height="6.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:36:4:5">
-<g transform="translate(59.1659, 15.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:31:4:5">
+<g transform="translate(57.8458, 15.2831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:26:27:28">
-<g transform="translate(59.1659, 8.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:20:29:30">
+<g transform="translate(57.8458, 8.7036)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(43.7404, 12.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.0224" ry="0.0400" fill="currentColor"/>
+<g transform="translate(39.2996, 19.7831)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:35:6:7">
-<g transform="translate(45.9099, 12.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:30:6:7">
+<g transform="translate(42.0025, 12.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(45.9749, 12.7831)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="2.6589" ry="0.0400" fill="currentColor"/>
+<g transform="translate(42.0675, 19.7831)">
+<rect x="-0.0650" y="-6.8139" width="0.1300" height="6.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(48.2094, 12.7831)">
-<rect x="-0.0650" y="1.1861" width="0.1300" height="2.2954" ry="0.0400" fill="currentColor"/>
+<g transform="translate(44.8353, 19.7831)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:35:8:9">
-<g transform="translate(48.1444, 13.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:30:8:9">
+<g transform="translate(44.7703, 13.7831)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(54.1076, 24.7831)">
+<g transform="translate(5.6906, 26.3519)">
+<rect x="104.6165" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="104.6165" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="104.6165" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="104.6165" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="104.6165" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="104.6165" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="101.4857" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="101.4857" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="101.4857" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="101.4857" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="101.4857" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="101.4857" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 25.3519)">
+<rect x="98.6049" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="98.6049" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="98.6049" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="98.6049" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="98.6049" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="98.6049" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="98.6049" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="95.2241" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="95.2241" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="95.2241" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="95.2241" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="95.2241" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="95.2241" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="92.0933" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="92.0933" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="92.0933" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="92.0933" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="92.0933" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="92.0933" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="88.9625" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="88.9625" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="88.9625" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="88.9625" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="88.9625" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="88.9625" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="84.5353" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="84.5353" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="84.5353" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="84.5353" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="84.5353" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="84.5353" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="81.4044" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="81.4044" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="81.4044" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="81.4044" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="81.4044" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="81.4044" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 25.3519)">
+<rect x="78.5236" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="78.5236" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="78.5236" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="78.5236" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="78.5236" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="78.5236" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="78.5236" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="75.1428" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="75.1428" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="75.1428" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="75.1428" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="75.1428" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="75.1428" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="72.0120" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="72.0120" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="72.0120" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="72.0120" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="72.0120" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="72.0120" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="68.8812" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="68.8812" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="68.8812" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="68.8812" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="68.8812" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="68.8812" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="64.3112" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="64.3112" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="64.3112" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="64.3112" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="64.3112" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="64.3112" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="56.3788" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="56.3788" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="56.3788" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="56.3788" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="53.2480" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="53.2480" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="53.2480" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="53.2480" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="50.1172" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="50.1172" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="50.1172" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="50.1172" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="47.2364" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="47.2364" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="47.2364" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="47.2364" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="47.2364" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="42.8092" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="42.8092" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="42.8092" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="42.8092" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="39.6784" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="39.6784" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="39.6784" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="39.6784" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="36.5476" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="36.5476" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="36.5476" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="33.4168" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="33.4168" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="33.4168" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="33.4168" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="30.2860" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="30.2860" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="30.2860" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="30.2860" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="26.9052" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="26.9052" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="22.4780" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="22.4780" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="22.4780" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="19.5972" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="19.5972" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="19.5972" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="19.5972" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="16.4664" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="16.4664" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="16.4664" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="16.4664" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="13.3356" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="13.3356" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="13.3356" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="13.3356" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="10.4548" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="10.4548" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="10.4548" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="10.4548" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="10.4548" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 26.3519)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 27.3519)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 28.3519)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 29.3519)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 30.3519)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 31.3519)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(113.6210, 34.3519)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(66.5664, 24.2831)">
+<g transform="translate(51.8137, 34.3519)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(67.3528, 33.8519)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(66.5664, 25.2831)">
+<g transform="translate(67.3528, 34.8519)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(67.8064, 24.7831)">
+<g transform="translate(68.5928, 34.3519)">
 <rect x="0.0000" y="-2.0000" width="0.6000" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(67.3164, 24.7831)">
+<g transform="translate(68.1028, 34.3519)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(71.9135, 24.7831)">
+<g transform="translate(73.4586, 34.3519)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(37.1003, 24.7831)">
+<g transform="translate(31.4825, 34.3519)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(88.4938, 24.7831)">
+<g transform="translate(93.5398, 34.3519)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(14.2264, 26.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="90.9988" y2="0"/>
+<g transform="translate(5.6906, 36.3519)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(14.2264, 25.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="90.9988" y2="0"/>
+<g transform="translate(5.6906, 35.3519)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(14.2264, 24.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="90.9988" y2="0"/>
+<g transform="translate(5.6906, 34.3519)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(14.2264, 23.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="90.9988" y2="0"/>
+<g transform="translate(5.6906, 33.3519)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(14.2264, 22.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="90.9988" y2="0"/>
+<g transform="translate(5.6906, 32.3519)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(75.8649, 24.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.7189" ry="0.0400" fill="currentColor"/>
+<g transform="translate(78.0936, 34.3519)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(78.4438, 24.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.8116" ry="0.0400" fill="currentColor"/>
+<g transform="translate(81.2244, 34.3519)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:25:26">
-<g transform="translate(78.3788, 23.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:25:26">
+<g transform="translate(81.1594, 26.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:31:32">
-<g transform="translate(86.1158, 23.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:31:32">
+<g transform="translate(90.5519, 26.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:23:24">
-<g transform="translate(75.7999, 23.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:23:24">
+<g transform="translate(78.0286, 26.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(61.3729, 24.7831)">
-<rect x="-0.0650" y="-2.1980" width="0.1300" height="3.0119" ry="0.0400" fill="currentColor"/>
+<g transform="translate(59.3296, 34.3519)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(83.6018, 24.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.3888" ry="0.0400" fill="currentColor"/>
+<g transform="translate(87.4861, 34.3519)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:29:30">
-<g transform="translate(83.5368, 23.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:29:30">
+<g transform="translate(87.4211, 26.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(81.2728, 24.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.5143" ry="0.0400" fill="currentColor"/>
+<g transform="translate(84.6052, 34.3519)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:27:28">
-<g transform="translate(81.2078, 22.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:27:28">
+<g transform="translate(84.5402, 24.8519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(69.4645, 27.2431)">
+<g transform="translate(70.4578, 34.3119)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
 </g>
-<g transform="translate(69.3995, 24.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(70.3928, 34.3519)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:45:4:5">
-<g transform="translate(69.3345, 23.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:40:4:5">
+<g transform="translate(70.3278, 26.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(63.9519, 24.7831)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(62.4604, 34.3519)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:42:10:11">
-<g transform="translate(62.7126, 25.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:37:10:11">
+<g transform="translate(62.3954, 28.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(97.7882, 25.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.9980 0.6100 4.9980 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(104.6215, 34.3519)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.1016 -0.2000 6.1016 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:28:29">
-<g transform="translate(73.2209, 21.1961)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:28:29">
+<g transform="translate(74.8978, 24.7698)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(73.2859, 24.7831)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1262" ry="0.0400" fill="currentColor"/>
+<g transform="translate(74.9628, 34.3519)">
+<rect x="-0.0650" y="-8.3139" width="0.1300" height="8.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:21:22">
-<g transform="translate(73.2209, 23.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:21:22">
+<g transform="translate(74.8978, 25.8519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(102.7612, 24.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.8034" ry="0.0400" fill="currentColor"/>
+<g transform="translate(110.6981, 34.3519)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:31:32">
-<g transform="translate(102.6962, 23.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:31:32">
+<g transform="translate(110.6331, 26.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(100.1822, 24.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.3888" ry="0.0400" fill="currentColor"/>
+<g transform="translate(107.5673, 34.3519)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:29:30">
-<g transform="translate(100.1172, 23.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:29:30">
+<g transform="translate(107.5023, 26.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(22.1264, 26.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.7480 1.1100 4.7480 1.5100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(13.5906, 34.3519)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.8516 -0.2000 5.8516 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(89.8012, 26.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.2480 -0.0100 5.2480 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(94.9791, 34.3519)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.3516 -0.2000 6.3516 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(81.2078, 25.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.9980 0.6100 4.9980 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(84.5402, 34.3519)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.1016 -0.2000 6.1016 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(73.2209, 26.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.2480 -0.0100 5.2480 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(74.8978, 34.3519)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.3516 -0.2000 6.3516 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(56.3999, 21.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.9980 0.4200 4.9980 0.8200 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(53.2530, 34.3519)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.1016 -0.2000 6.1016 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(47.3796, 22.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.2480 -0.8200 5.2480 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(42.5642, 34.3519)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.3516 -0.2000 6.3516 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(39.3926, 23.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.4980 -1.0100 5.4980 -0.6100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(32.9218, 34.3519)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.6016 -0.2000 6.6016 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(30.5376, 21.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.9980 0.6100 4.9980 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(22.4830, 34.3519)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.1016 -0.2000 6.1016 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(97.8532, 24.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.5143" ry="0.0400" fill="currentColor"/>
+<g transform="translate(104.6865, 34.3519)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(89.8662, 24.7831)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1262" ry="0.0400" fill="currentColor"/>
+<g transform="translate(95.0441, 34.3519)">
+<rect x="-0.0650" y="-8.3139" width="0.1300" height="8.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:21:22">
-<g transform="translate(89.8012, 23.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:21:22">
+<g transform="translate(94.9791, 25.8519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:34:35">
-<g transform="translate(89.8012, 21.1961)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:34:35">
+<g transform="translate(94.9791, 24.7698)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:27:28">
-<g transform="translate(97.7882, 22.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:27:28">
+<g transform="translate(104.6215, 24.8519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(95.0242, 24.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.8116" ry="0.0400" fill="currentColor"/>
+<g transform="translate(101.3057, 34.3519)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:25:26">
-<g transform="translate(94.9592, 23.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:25:26">
+<g transform="translate(101.2407, 26.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(86.1808, 24.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.8034" ry="0.0400" fill="currentColor"/>
+<g transform="translate(90.6169, 34.3519)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(92.4452, 24.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.7189" ry="0.0400" fill="currentColor"/>
+<g transform="translate(98.1749, 34.3519)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:46:23:24">
-<g transform="translate(92.3802, 23.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:41:23:24">
+<g transform="translate(98.1099, 26.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(35.5106, 24.7831)">
-<rect x="-0.0650" y="-2.0105" width="0.1300" height="3.8243" ry="0.0400" fill="currentColor"/>
+<g transform="translate(28.5596, 34.3519)">
+<rect x="-0.0650" y="-4.8139" width="0.1300" height="4.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:40:14:15">
-<g transform="translate(34.2714, 26.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:35:14:15">
+<g transform="translate(28.4946, 29.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(33.1816, 24.7831)">
-<rect x="-0.0650" y="-2.3849" width="0.1300" height="3.1988" ry="0.0400" fill="currentColor"/>
+<g transform="translate(25.6788, 34.3519)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:40:12:13">
-<g transform="translate(31.9424, 25.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:35:12:13">
+<g transform="translate(25.6138, 28.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(30.6026, 24.7831)">
-<rect x="-0.0650" y="-2.7995" width="0.1300" height="3.1134" ry="0.0400" fill="currentColor"/>
+<g transform="translate(22.5480, 34.3519)">
+<rect x="-0.0650" y="-6.3139" width="0.1300" height="6.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:40:10:11">
-<g transform="translate(29.3634, 25.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:35:10:11">
+<g transform="translate(22.4830, 27.8519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:42:8:9">
-<g transform="translate(60.1337, 25.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:37:8:9">
+<g transform="translate(59.2646, 28.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:8:9">
-<g transform="translate(29.3634, 21.1961)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:8:9">
+<g transform="translate(22.4830, 24.7698)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(39.4576, 24.7831)">
-<rect x="-0.0650" y="-1.1995" width="0.1300" height="3.5134" ry="0.0400" fill="currentColor"/>
+<g transform="translate(32.9868, 34.3519)">
+<rect x="-0.0650" y="-4.3139" width="0.1300" height="4.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:41:4:5">
-<g transform="translate(38.2184, 27.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:36:4:5">
+<g transform="translate(32.9218, 29.8519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:14:15">
-<g transform="translate(38.2184, 21.1961)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:14:15">
+<g transform="translate(32.9218, 24.7698)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:40:4:5">
-<g transform="translate(22.1264, 23.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:35:4:5">
+<g transform="translate(13.5906, 26.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:4:5">
-<g transform="translate(22.1264, 21.1961)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:4:5">
+<g transform="translate(13.5906, 24.7698)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(22.1914, 24.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.0217" ry="0.0400" fill="currentColor"/>
+<g transform="translate(13.6556, 34.3519)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(13.3387, 21.7127)">
+<g transform="translate(4.8028, 31.2814)">
 <text font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
-<g transform="translate(18.5264, 22.7831)">
+<g transform="translate(9.9906, 32.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
 v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
 </g>
-<g transform="translate(15.0264, 25.7831)">
+<g transform="translate(6.4906, 35.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247
 c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM335 -262
 c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 104 -7 156c0 115 55 224 149 292c6 5 14 5 20 0c71 -84 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c4 0 9 1 13 1c155 0 256 -128 256 -261
 c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8zM428 916c0 55 -4 79 -20 129c-99 -48 -162 -149 -162 -259
 c0 -74 18 -133 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<g transform="translate(26.8494, 24.7831)">
-<rect x="-0.0650" y="1.1861" width="0.1300" height="2.2961" ry="0.0400" fill="currentColor"/>
+<g transform="translate(19.4172, 34.3519)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:40:8:9">
-<g transform="translate(26.7844, 25.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:35:8:9">
+<g transform="translate(19.3522, 28.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(24.5204, 24.7831)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="2.6589" ry="0.0400" fill="currentColor"/>
+<g transform="translate(16.5364, 34.3519)">
+<rect x="-0.0650" y="-6.8139" width="0.1300" height="6.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:40:6:7">
-<g transform="translate(24.4554, 24.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:35:6:7">
+<g transform="translate(16.4714, 27.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:24:25">
-<g transform="translate(55.2257, 21.1961)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:24:25">
+<g transform="translate(53.2530, 24.7698)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:41:13:14">
-<g transform="translate(48.7844, 25.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:36:13:14">
+<g transform="translate(45.6950, 28.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:42:4:5">
-<g transform="translate(55.2257, 24.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:37:4:5">
+<g transform="translate(53.2530, 27.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(50.0236, 24.7831)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(45.7600, 34.3519)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:41:15:16">
-<g transform="translate(51.3634, 25.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:36:15:16">
+<g transform="translate(48.8258, 27.8519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(52.6026, 24.7831)">
-<rect x="-0.0650" y="-2.8024" width="0.1300" height="3.1163" ry="0.0400" fill="currentColor"/>
+<g transform="translate(48.8908, 34.3519)">
+<rect x="-0.0650" y="-6.3139" width="0.1300" height="6.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(56.4649, 24.7831)">
-<rect x="-0.0650" y="-2.8020" width="0.1300" height="2.6159" ry="0.0400" fill="currentColor"/>
+<g transform="translate(53.3180, 34.3519)">
+<rect x="-0.0650" y="-6.8139" width="0.1300" height="6.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:41:6:7">
-<g transform="translate(41.0474, 25.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:36:6:7">
+<g transform="translate(36.3026, 28.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(42.2866, 24.7831)">
-<rect x="-0.0650" y="-1.6133" width="0.1300" height="2.4272" ry="0.0400" fill="currentColor"/>
+<g transform="translate(36.3676, 34.3519)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:41:8:9">
-<g transform="translate(43.6264, 25.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:36:8:9">
+<g transform="translate(39.4334, 28.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(44.8656, 24.7831)">
-<rect x="-0.0650" y="-1.9905" width="0.1300" height="2.8044" ry="0.0400" fill="currentColor"/>
+<g transform="translate(39.4984, 34.3519)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(58.7939, 24.7831)">
-<rect x="-0.0650" y="-2.5154" width="0.1300" height="3.3293" ry="0.0400" fill="currentColor"/>
+<g transform="translate(56.1988, 34.3519)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:18:19">
-<g transform="translate(46.2054, 21.1961)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:18:19">
+<g transform="translate(42.5642, 24.7698)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>D</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:42:6:7">
-<g transform="translate(57.5547, 25.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:37:6:7">
+<g transform="translate(56.1338, 28.3519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:41:10:11">
-<g transform="translate(46.2054, 26.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:36:10:11">
+<g transform="translate(42.5642, 28.8519)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(47.4446, 24.7831)">
-<rect x="-0.0650" y="-2.1976" width="0.1300" height="3.5115" ry="0.0400" fill="currentColor"/>
+<g transform="translate(42.6292, 34.3519)">
+<rect x="-0.0650" y="-5.3139" width="0.1300" height="5.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(14.2264, 33.7831)">
-<rect x="40.9560" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="95.8664" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
-<g transform="translate(99.7648, 36.2831)">
+<g transform="translate(5.6906, 45.4181)">
+<rect x="95.8664" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="95.8664" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="95.8664" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="93.2975" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="93.2975" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="93.2975" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="93.2975" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="90.7285" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="90.7285" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="90.7285" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="90.7285" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="88.4096" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="88.4096" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="88.4096" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="88.4096" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="88.4096" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="84.7549" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="84.7549" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="84.7549" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="84.7549" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="82.1860" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="82.1860" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="82.1860" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="82.1860" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="79.6170" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="79.6170" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="79.6170" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="77.0481" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="77.0481" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="77.0481" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="77.0481" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="74.4791" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="74.4791" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="74.4791" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="74.4791" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="71.6602" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="71.6602" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="68.0055" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="68.0055" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="68.0055" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="65.6866" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="65.6866" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="65.6866" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="65.6866" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="63.1176" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="63.1176" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="63.1176" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="63.1176" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="60.5487" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="60.5487" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="60.5487" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="60.5487" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="58.2297" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="58.2297" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="58.2297" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="58.2297" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="58.2297" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="55.9108" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="55.9108" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="55.9108" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="55.9108" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="55.9108" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="55.9108" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="52.2561" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="52.2561" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="52.2561" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="52.2561" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="52.2561" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="52.2561" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.4181)">
+<rect x="49.9372" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="49.9372" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="49.9372" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="49.9372" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="49.9372" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="49.9372" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="49.9372" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 40.4181)">
+<rect x="47.3682" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.4181)">
+<rect x="47.3682" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="47.3682" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="47.3682" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="47.3682" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="47.3682" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="47.3682" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="47.3682" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.4181)">
+<rect x="44.7993" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="44.7993" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="44.7993" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="44.7993" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="44.7993" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="44.7993" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="44.7993" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.4181)">
+<rect x="42.2303" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="42.2303" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="42.2303" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="42.2303" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="42.2303" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="42.2303" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="42.2303" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.4181)">
+<rect x="39.6614" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="39.6614" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="39.6614" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="39.6614" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="39.6614" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="39.6614" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="39.6614" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="35.8639" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="35.8639" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="35.8639" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="35.8639" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="35.8639" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="35.8639" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="31.7802" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="31.7802" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="31.7802" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="31.7802" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="29.2112" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="29.2112" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="29.2112" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="29.2112" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="29.2112" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="26.8923" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="26.8923" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="26.8923" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="26.8923" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="26.8923" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="26.8923" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="24.3234" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="24.3234" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="24.3234" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="24.3234" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="24.3234" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="24.3234" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.4181)">
+<rect x="20.6687" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="20.6687" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="20.6687" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="20.6687" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="20.6687" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="20.6687" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="20.6687" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.4181)">
+<rect x="18.0998" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="18.0998" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="18.0998" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="18.0998" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="18.0998" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="18.0998" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="18.0998" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.4181)">
+<rect x="15.5308" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="15.5308" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="15.5308" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="15.5308" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="15.5308" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="15.5308" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="15.5308" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="12.7119" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="12.7119" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="12.7119" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="12.7119" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="12.7119" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="12.7119" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="10.1429" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="10.1429" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="10.1429" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="10.1429" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="10.1429" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="10.1429" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 42.4181)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.4181)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.4181)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.4181)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.4181)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 47.4181)">
+<rect x="7.5740" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(105.7167, 49.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(99.7648, 37.2831)">
+<g transform="translate(105.7167, 50.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(101.0048, 36.7831)">
+<g transform="translate(106.9567, 50.4181)">
 <rect x="0.0000" y="-2.0000" width="0.6000" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(100.5148, 36.7831)">
+<g transform="translate(106.4667, 50.4181)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(89.5159, 36.7831)">
+<g transform="translate(93.1976, 50.4181)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(75.1323, 36.7831)">
+<g transform="translate(76.4482, 50.4181)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(61.5173, 36.7831)">
+<g transform="translate(60.6988, 50.4181)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(47.8499, 36.7831)">
+<g transform="translate(44.4494, 50.4181)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(35.1177, 36.7831)">
+<g transform="translate(29.1114, 50.4181)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(14.2264, 38.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="87.3284" y2="0"/>
+<g transform="translate(5.6906, 52.4181)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="101.8162" y2="0"/>
 </g>
-<g transform="translate(14.2264, 37.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="87.3284" y2="0"/>
+<g transform="translate(5.6906, 51.4181)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="101.8162" y2="0"/>
 </g>
-<g transform="translate(14.2264, 36.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="87.3284" y2="0"/>
+<g transform="translate(5.6906, 50.4181)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="101.8162" y2="0"/>
 </g>
-<g transform="translate(14.2264, 35.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="87.3284" y2="0"/>
+<g transform="translate(5.6906, 49.4181)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="101.8162" y2="0"/>
 </g>
-<g transform="translate(14.2264, 34.7831)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="87.3284" y2="0"/>
+<g transform="translate(5.6906, 48.4181)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="101.8162" y2="0"/>
 </g>
-<g transform="translate(77.3485, 36.7831)">
-<rect x="-0.0650" y="-1.2012" width="0.1300" height="3.5151" ry="0.0400" fill="currentColor"/>
+<g transform="translate(77.7418, 50.4181)">
+<rect x="-0.0650" y="-4.3139" width="0.1300" height="4.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:52:4:5">
-<g transform="translate(76.1093, 39.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:47:4:5">
+<g transform="translate(77.6768, 45.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:76:77">
-<g transform="translate(76.1093, 32.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:76:77">
+<g transform="translate(77.6768, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(73.9563, 36.7831)">
-<rect x="-0.0650" y="-2.0125" width="0.1300" height="3.8264" ry="0.0400" fill="currentColor"/>
+<g transform="translate(74.0871, 50.4181)">
+<rect x="-0.0650" y="-4.8139" width="0.1300" height="4.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:51:14:15">
-<g transform="translate(72.7171, 38.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:46:14:15">
+<g transform="translate(74.0221, 45.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(72.0411, 36.7831)">
-<rect x="-0.0650" y="-2.3810" width="0.1300" height="3.1948" ry="0.0400" fill="currentColor"/>
+<g transform="translate(71.7682, 50.4181)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(81.9290, 36.7831)">
-<rect x="-0.0650" y="-1.9888" width="0.1300" height="2.8027" ry="0.0400" fill="currentColor"/>
+<g transform="translate(83.1297, 50.4181)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:52:8:9">
-<g transform="translate(80.6897, 37.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:47:8:9">
+<g transform="translate(83.0647, 44.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(79.7637, 36.7831)">
-<rect x="-0.0650" y="-1.6165" width="0.1300" height="2.4304" ry="0.0400" fill="currentColor"/>
+<g transform="translate(80.5607, 50.4181)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:52:6:7">
-<g transform="translate(78.5245, 37.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:47:6:7">
+<g transform="translate(80.4957, 44.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:51:12:13">
-<g transform="translate(70.8019, 37.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:46:12:13">
+<g transform="translate(71.7032, 44.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:51:6:7">
-<g transform="translate(64.5562, 36.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:46:6:7">
+<g transform="translate(64.2463, 43.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:51:4:5">
-<g transform="translate(62.6410, 35.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:46:4:5">
+<g transform="translate(61.9274, 42.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:69:70">
-<g transform="translate(62.6410, 32.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:69:70">
+<g transform="translate(61.9274, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(69.8759, 36.7831)">
-<rect x="-0.0650" y="-2.7975" width="0.1300" height="3.1114" ry="0.0400" fill="currentColor"/>
+<g transform="translate(69.1992, 50.4181)">
+<rect x="-0.0650" y="-6.3139" width="0.1300" height="6.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:51:10:11">
-<g transform="translate(68.6367, 37.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:46:10:11">
+<g transform="translate(69.1342, 43.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:72:73">
-<g transform="translate(68.6367, 32.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:72:73">
+<g transform="translate(69.1342, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(66.5364, 36.7831)">
-<rect x="-0.0650" y="1.1861" width="0.1300" height="2.2924" ry="0.0400" fill="currentColor"/>
+<g transform="translate(66.6303, 50.4181)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:51:8:9">
-<g transform="translate(66.4714, 37.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:46:8:9">
+<g transform="translate(66.5653, 44.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(64.6212, 36.7831)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="2.6589" ry="0.0400" fill="currentColor"/>
+<g transform="translate(64.3113, 50.4181)">
+<rect x="-0.0650" y="-6.8139" width="0.1300" height="6.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(97.9778, 36.7831)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(101.9480, 50.4181)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:53:10:11">
-<g transform="translate(96.7385, 37.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:48:10:11">
+<g transform="translate(101.8830, 44.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(95.8125, 36.7831)">
-<rect x="-0.0650" y="-2.1996" width="0.1300" height="3.0135" ry="0.0400" fill="currentColor"/>
+<g transform="translate(99.3791, 50.4181)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:53:8:9">
-<g transform="translate(94.5733, 37.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:48:8:9">
+<g transform="translate(99.3141, 44.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(93.6473, 36.7831)">
-<rect x="-0.0650" y="-2.5184" width="0.1300" height="3.3323" ry="0.0400" fill="currentColor"/>
+<g transform="translate(96.8101, 50.4181)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(22.1264, 38.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.4204 -0.0100 4.4204 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(13.5906, 50.4181)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.2279 -0.2000 5.2279 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(91.6671, 33.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.1704 0.4200 4.1704 0.8200 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(94.4262, 50.4181)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.9779 -0.2000 4.9779 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(84.0292, 34.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.4204 -0.8200 4.4204 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(85.6336, 50.4181)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.2279 -0.2000 5.2279 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(77.2835, 35.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.6704 -1.0100 4.6704 -0.6100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(77.6768, 50.4181)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.4779 -0.2000 5.4779 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(69.8109, 33.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.1704 0.6100 4.1704 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(69.1342, 50.4181)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.9779 -0.2000 4.9779 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(62.6410, 38.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.9204 1.1100 3.9204 1.5100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(61.9274, 50.4181)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.7279 -0.2000 4.7279 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(55.5084, 36.9731)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.1704 0.6100 4.1704 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(53.3848, 50.4181)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.9779 -0.2000 4.9779 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(49.0128, 37.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.4204 -0.2000 4.4204 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(45.6780, 50.4181)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.2279 -0.2000 5.2279 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(36.2699, 38.7831)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.1704 0.6100 4.1704 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(30.3400, 50.4181)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.9779 -0.2000 4.9779 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(28.8720, 37.5931)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.4204 -0.2000 4.4204 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(21.5474, 50.4181)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.2279 -0.2000 5.2279 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:53:6:7">
-<g transform="translate(92.4081, 37.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:48:6:7">
+<g transform="translate(96.7451, 44.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:52:13:14">
-<g transform="translate(85.0202, 37.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:47:13:14">
+<g transform="translate(88.2026, 44.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(88.4246, 36.7831)">
-<rect x="-0.0650" y="-2.8010" width="0.1300" height="3.1149" ry="0.0400" fill="currentColor"/>
+<g transform="translate(90.8365, 50.4181)">
+<rect x="-0.0650" y="-6.3139" width="0.1300" height="6.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:52:15:16">
-<g transform="translate(87.1854, 37.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:47:15:16">
+<g transform="translate(90.7715, 43.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(86.2594, 36.7831)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(88.2676, 50.4181)">
+<rect x="-0.0650" y="-5.8139" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(84.0942, 36.7831)">
-<rect x="-0.0650" y="-2.1990" width="0.1300" height="3.5129" ry="0.0400" fill="currentColor"/>
+<g transform="translate(85.6986, 50.4181)">
+<rect x="-0.0650" y="-5.3139" width="0.1300" height="5.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:52:10:11">
-<g transform="translate(82.8550, 38.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:47:10:11">
+<g transform="translate(85.6336, 44.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:79:80">
-<g transform="translate(82.8550, 32.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:79:80">
+<g transform="translate(85.6336, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>D</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(62.7060, 36.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.0254" ry="0.0400" fill="currentColor"/>
+<g transform="translate(61.9924, 50.4181)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(91.7321, 36.7831)">
-<rect x="-0.0650" y="-2.8004" width="0.1300" height="2.6143" ry="0.0400" fill="currentColor"/>
+<g transform="translate(94.4912, 50.4181)">
+<rect x="-0.0650" y="-6.8139" width="0.1300" height="6.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:53:4:5">
-<g transform="translate(90.4929, 36.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:48:4:5">
+<g transform="translate(94.4262, 43.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:84:85">
-<g transform="translate(90.4929, 32.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:84:85">
+<g transform="translate(94.4262, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(36.3349, 36.7831)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3264" ry="0.0400" fill="currentColor"/>
+<g transform="translate(30.4050, 50.4181)">
+<rect x="-0.0650" y="-8.3139" width="0.1300" height="8.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:49:4:5">
-<g transform="translate(36.2699, 35.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:44:4:5">
+<g transform="translate(30.3400, 41.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:51:52">
-<g transform="translate(36.2699, 32.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:51:52">
+<g transform="translate(30.3400, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(33.2675, 36.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(26.7503, 50.4181)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:48:15:16">
-<g transform="translate(33.2025, 34.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:43:15:16">
+<g transform="translate(26.6853, 40.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(38.5001, 36.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.2429" ry="0.0400" fill="currentColor"/>
+<g transform="translate(32.9739, 50.4181)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(40.4154, 36.7831)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="2.6114" ry="0.0400" fill="currentColor"/>
+<g transform="translate(35.2929, 50.4181)">
+<rect x="-0.0650" y="-6.8139" width="0.1300" height="6.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:49:8:9">
-<g transform="translate(40.3504, 36.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:44:8:9">
+<g transform="translate(35.2279, 43.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(31.1023, 36.7831)">
-<rect x="-0.0650" y="-1.8139" width="0.1300" height="2.6239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(24.1814, 50.4181)">
+<rect x="-0.0650" y="-8.8139" width="0.1300" height="8.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:49:6:7">
-<g transform="translate(38.4351, 35.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:44:6:7">
+<g transform="translate(32.9089, 42.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:48:6:7">
-<g transform="translate(24.2916, 35.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:43:6:7">
+<g transform="translate(16.1595, 42.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(22.1914, 36.7831)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1267" ry="0.0400" fill="currentColor"/>
+<g transform="translate(13.6556, 50.4181)">
+<rect x="-0.0650" y="-8.3139" width="0.1300" height="8.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:48:4:5">
-<g transform="translate(22.1264, 35.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:43:4:5">
+<g transform="translate(13.5906, 41.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:39:40">
-<g transform="translate(22.1264, 32.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:39:40">
+<g transform="translate(13.5906, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(24.3566, 36.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.7189" ry="0.0400" fill="currentColor"/>
+<g transform="translate(16.2245, 50.4181)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(12.5192, 33.7331)">
+<g transform="translate(3.9834, 47.3681)">
 <text font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
 <tspan>11</tspan>
 </text>
 </g>
-<g transform="translate(18.5264, 34.7831)">
+<g transform="translate(9.9906, 48.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
 v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
 </g>
-<g transform="translate(15.0264, 37.7831)">
+<g transform="translate(6.4906, 51.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247
 c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM335 -262
 c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 104 -7 156c0 115 55 224 149 292c6 5 14 5 20 0c71 -84 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c4 0 9 1 13 1c155 0 256 -128 256 -261
 c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8zM428 916c0 55 -4 79 -20 129c-99 -48 -162 -149 -162 -259
 c0 -74 18 -133 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:48:12:13">
-<g transform="translate(31.0373, 34.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:43:12:13">
+<g transform="translate(24.1164, 41.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(28.9370, 36.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(21.6124, 50.4181)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:48:10:11">
-<g transform="translate(28.8720, 34.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:43:10:11">
+<g transform="translate(21.5474, 40.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:43:44">
-<g transform="translate(28.8720, 32.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:43:44">
+<g transform="translate(21.5474, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>E</tspan>
 </text>
 </g>
-<g transform="translate(30.5109, 32.7036)">
+<g transform="translate(23.1863, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>m</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(26.5218, 36.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.8111" ry="0.0400" fill="currentColor"/>
+<g transform="translate(18.7935, 50.4181)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:48:8:9">
-<g transform="translate(26.4568, 35.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:43:8:9">
+<g transform="translate(18.7285, 42.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:50:6:7">
-<g transform="translate(51.1780, 34.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:45:6:7">
+<g transform="translate(48.2469, 41.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(53.4082, 36.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(50.8809, 50.4181)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:50:9:10">
-<g transform="translate(53.3432, 34.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:45:9:10">
+<g transform="translate(50.8159, 40.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(51.2430, 36.7831)">
-<rect x="-0.0650" y="-1.8139" width="0.1300" height="2.6239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(48.3119, 50.4181)">
+<rect x="-0.0650" y="-8.8139" width="0.1300" height="8.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:50:13:14">
-<g transform="translate(57.6736, 34.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:45:13:14">
+<g transform="translate(55.9538, 40.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(59.6538, 36.7831)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.3014" ry="0.0400" fill="currentColor"/>
+<g transform="translate(58.3377, 50.4181)">
+<rect x="-0.0650" y="-8.3139" width="0.1300" height="8.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:50:15:16">
-<g transform="translate(59.5888, 35.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:45:15:16">
+<g transform="translate(58.2727, 41.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(57.7386, 36.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="2.9329" ry="0.0400" fill="currentColor"/>
+<g transform="translate(56.0188, 50.4181)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(55.5734, 36.7831)">
-<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.0164" ry="0.0400" fill="currentColor"/>
+<g transform="translate(53.4498, 50.4181)">
+<rect x="-0.0650" y="-9.8139" width="0.1300" height="9.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:50:11:12">
-<g transform="translate(55.5084, 33.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:45:11:12">
+<g transform="translate(53.3848, 40.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:64:65">
-<g transform="translate(55.5084, 32.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:64:65">
+<g transform="translate(53.3848, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:55:56">
-<g transform="translate(42.4973, 32.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:55:56">
+<g transform="translate(37.7968, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>D</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:49:10:11">
-<g transform="translate(42.4973, 37.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:44:10:11">
+<g transform="translate(37.7968, 43.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(43.7365, 36.7831)">
-<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(37.8618, 50.4181)">
+<rect x="-0.0650" y="-6.3139" width="0.1300" height="6.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:49:13:14">
-<g transform="translate(45.6847, 35.7831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:44:13:14">
+<g transform="translate(41.8805, 42.4181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(45.7497, 36.7831)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(41.9455, 50.4181)">
+<rect x="-0.0650" y="-7.8139" width="0.1300" height="7.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(45.8147, 39.2431)">
+<g transform="translate(42.0105, 50.3781)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:27:60:61">
-<g transform="translate(49.0128, 32.7036)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:21:60:61">
+<g transform="translate(45.6780, 39.3386)">
 <text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/EricBabcock/Desktop/blackthornStick.ly:50:4:5">
-<g transform="translate(49.0128, 34.2831)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/calic/Documents/GitHub/Latex/music/violin/begBorrowAndSteal/blackthornStick.ly:45:4:5">
+<g transform="translate(45.6780, 40.9181)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(49.0778, 36.7831)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(45.7430, 50.4181)">
+<rect x="-0.0650" y="-9.3139" width="0.1300" height="9.3139" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(34.5701, 165.1202)">
 <a xlink:href="https://lilypond.org/">

@@ -3,10 +3,10 @@
 
 \include "lilypond-book-preamble.ly"
 
-%{
+
 \header {
   title = "Lannigan's Ball"
-%}
+}
 
 \paper {
   % Add space for instrument names
