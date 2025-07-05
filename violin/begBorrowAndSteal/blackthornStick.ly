@@ -56,7 +56,7 @@ violin = \relative c'' {
   >>
   \layout { }
   \midi {
-    \tempo 4=200
+    \tempo 4=160
   }
 }
 
