@@ -3,6 +3,9 @@
 
 
 ## Todos
+
 [ ] Create a book of my 5 favorite songs for Mila- 3
+
+[] Unzip EPUBs for their image files \footnote{If there is a song that you want, PLEASE don't use Frescobaldi right now there is NOT ENOUGH TIME. }
 
 [ ] I would like to create a folder that contains tables of contents of all the music books I'm downloading -1
