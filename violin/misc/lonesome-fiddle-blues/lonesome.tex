@@ -1,0 +1,22 @@
+\documentclass{standalone}
+
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\begin{document}
+\begin{tikzpicture}
+	\node[
+		above right,
+		inner sep=0,
+	] (image) at (0,0) {
+		\includegraphics[width=\textwidth]{00171.jpeg}
+	};
+	\begin{scope}[
+		x={($0.1*(image.south east)$)},
+		y={($0.1*(image.north west)$)},
+	]
+		%\draw[help lines,step=1] (image.south west) grid (image.north east);
+
+		\node at (5,9) {Lonesome Fiddle Blues};
+	\end{scope}
+\end{tikzpicture}
+\end{document}
